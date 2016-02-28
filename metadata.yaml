@@ -1,0 +1,43 @@
+_repo: The-Works-of-Aphra-Behn-Volume-II_8885
+contributor:
+  creator:
+    editor:
+      agent_name: Summers, Montague
+      alias: Summers, Alphonsus Joseph Mary Augustus Montague
+      birthdate: 1880
+      deathdate: 1948
+      gutenberg_agent_id: '9866'
+      url: http://www.gutenberg.org/2009/agents/9866
+creator:
+  author:
+    agent_name: Behn, Aphra
+    aliases:
+    - Johnson, Aphra
+    - Behn, Aphra Amis
+    - Behn, Aphara
+    - Behn, Anne
+    - Behn, Ayfara
+    - Behn, Afra
+    - Bhen, A. (Aphra)
+    birthdate: 1640
+    deathdate: 1689
+    gutenberg_agent_id: '2728'
+    url: http://www.gutenberg.org/2009/agents/2728
+    wikipedia: http://en.wikipedia.org/wiki/Aphra_Behn
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama -- 17th century'
+tableOfContents: Abdelazer; or, The Moor's revenge -- The young king; or, The mistake
+  -- The city heiress; or, Sir Timothy Treat-All -- The feign'd curtezans; or, A night's
+  intrigue.
+title: The Works of Aphra Behn, Volume II
+url: http://www.gutenberg.org/ebooks/8885
