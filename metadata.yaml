@@ -1,4 +1,5 @@
 _repo: The-Works-of-Aphra-Behn-Volume-II_8885
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,6 +9,9 @@ contributor:
       deathdate: 1948
       gutenberg_agent_id: '9866'
       url: http://www.gutenberg.org/2009/agents/9866
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Behn, Aphra
@@ -25,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2728
     wikipedia: http://en.wikipedia.org/wiki/Aphra_Behn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8885#The-Works-of-Aphra-Behn-Volume-II
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
